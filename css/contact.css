@@ -1,0 +1,38 @@
+.no-padding {
+    padding: 0;
+}
+
+.margin-bottom-15 {
+    margin-bottom: 15px;
+}
+
+.contact_title {
+    margin: 130px 0 70px 0;
+}
+
+.contact_box_address .fa {
+    float: left;
+    color: #0c76bc;
+    font-size: 19px;
+    margin: 0 5px 0 0;
+    width: 20px;
+}
+
+.contact_box_address span {
+    display: table;
+    line-height: 25px;
+}
+
+.contact_box_address p:nth-child(3), .contact_box_address p:nth-child(5){
+    margin-bottom: 40px;
+}
+
+.contact_map {
+    margin-bottom: 100px;
+}
+
+.capcha {
+    float: left;
+    padding: 1px 5px 0 0;
+    width: 40%;
+}

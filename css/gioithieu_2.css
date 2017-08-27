@@ -1,0 +1,64 @@
+.subTitle_item {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 40px 0;
+}
+
+.subTitle_text h3 {
+    padding-left: 10px;
+    font-size: 19px;
+    margin: 0;
+}
+
+.subTitle_text a {
+    font-size: 18px;
+    text-decoration: none;
+    color: #000;
+    font-weight: 600;
+}
+
+.subTitle_text a:hover,a:visited, a:link {
+    text-decoration: none;
+}
+
+.introduce2_img img {
+    width: 100%;
+}
+
+.introduce_BNC_img img {
+    margin: 0 auto 50px auto;
+}
+
+.introduce_BNC_des p {
+    padding: 0 230px 0 220px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.introduce_BNC_des p:nth-child(2), .introduce_BNC_des p:nth-child(3), .introduce_BNC_des p:nth-child(4) {
+    margin-bottom: 40px;
+}
+
+.introduce_BNC_des p:nth-child(5) {
+    margin-bottom: 65px;
+}
+
+.introduce_BNC_des h3 {
+    color: #044970;
+    font-weight: 600;
+}
+
+.des_1 {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.des_2 {
+    margin-top: 0;
+    margin-bottom: 70px;
+}
+
+.introduce_ad, .vision img {
+    width: 100%;
+}

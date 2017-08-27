@@ -1,0 +1,153 @@
+.products_icon {
+    background: #3dc8db;
+    padding: 40px 350px;
+}
+.products_icon_bar {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    border-left: 1px solid #fff;
+}
+
+.products_icon_bar li {
+    display: inline-block;
+    border-right: 1px solid #fff;
+}
+
+.project_word {
+    background: url('../img/bg_map_webbnc.png') no-repeat;
+    height: 275px;
+}
+
+.project_title_main {
+    margin-top: 75px;
+}
+
+.project_title_main {
+    font-size: 28px;
+}
+
+.project_title_subMain {
+    font-size: 22px;
+}
+
+.big {
+    font-size: 38px;
+    font-weight: bold;
+}
+
+.webbnc_content_project_support_border {
+    display: inline-block;
+    border: 1px solid #000;
+    padding: 20px 50px;
+    margin: 50px 0 80px;
+}
+
+.webbnc_content_project_support_border h2 {
+    color: #0c76bc;
+    font-size: 45px;
+    padding: 0 0 10px 0;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.webbnc_content_project_support_border p {
+    font-size: 20px;
+}
+
+.webbnc_content_project_support_box {
+    background: #f5f5f5;
+    padding: 30px;
+    position: relative;
+}
+
+.webbnc_content_project_support_box:before {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-top: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-bottom: 30px solid transparent;
+    border-left: 50px solid #0c76bc;
+    left: 0;
+    top: -30px;
+}
+
+.webbnc_content_project_support_box p {
+    font-size: 17px;
+    line-height: 35px;
+}
+
+.webbnc_content_project_support>div>div>div:nth-child(3) {
+    margin: 30px 0 0;
+}
+
+.webbnc_content_project_support>div>div>div:nth-child(4) {
+    margin: 60px 0 0;
+}
+
+.webbnc_content_project_adv {
+    background: url(../img/banner_webbnc_bottom.png) no-repeat center center;
+    background-size: cover;
+    padding: 30px 0;
+    color: #fff;
+    font-size: 20px;
+    margin: 80px 0 0;
+}
+
+.webbnc_content_project_adv p {
+    line-height: 30px;
+}
+
+.btn_bCake, .btn_bpos {
+    width: 230px;
+    height: 70px;
+    background: #fff;
+    color: #309fd6;
+    border: 3px solid #000;
+    font-size: 22px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.btn_bpos {
+    margin-top: 200px;
+}
+
+.bcake_top_info_title {
+    font-weight: 600;
+}
+
+.bcake_top_info_des {
+    line-height: 30px;
+    font-size: 14px;
+    padding-right: 50px;
+}
+
+.bcake_top_img img {
+    margin-bottom: 30px;
+}
+
+.thumbnail {
+    margin-bottom: 5px;
+}
+
+.bcake_bottom_title {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.bcake_bottom_info span {
+    color: #75c419;
+}
+
+.bcake_bottom_des {
+    font-weight: 600;
+}
+
+.bcake_bottom_img img {
+    margin-bottom: 55px;
+}

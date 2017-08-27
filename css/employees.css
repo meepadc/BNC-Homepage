@@ -1,0 +1,173 @@
+.employees_title {
+    background: url(../img/danh_cho_nv.png) no-repeat center center;
+    text-align: center;
+    padding: 80px 0 !important;
+}
+
+.employees_title h2 {
+    display: inline-block;
+    color: #fff;
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    padding: 20px 0;
+    text-transform: uppercase;
+}
+
+.for_employees_list {
+    background: #087282;
+    position: relative;
+    margin-bottom: 100px;
+    padding: 100px 0 !important;
+}
+
+.for_employees_list:after {
+    content: "";
+    position: absolute;
+    bottom: -47px;
+    width: 100%;
+    background: url(../img/arrow_bottom.png) no-repeat center;
+    left: 0;
+    height: 50px;
+    background-size: 100% 100%;
+}
+
+.for_employees_list_icon {
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    border: 1px solid #fff;
+    border-radius: 100px;
+    -webkit-transition: all ease .5s;
+    transition: all ease .5s;
+}
+
+.img_scale_down {
+    width: 100%;
+    height: 100%;
+    object-fit: scale-down;
+}
+
+.for_employees_list_title h2 {
+    line-height: 40px;
+}
+
+.for_employees_list_title h2 a {
+    color: #fff;
+    font-size: 20px;
+    display: block;
+    margin: 20px 0;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.for_employees_career_opportunities {
+    padding: 0 0 50px !important;
+}
+
+.for_employees_career_opportunities_title {
+    color: #067281;
+    font-size: 45px;
+    margin: 0 0 30px 0;
+}
+
+.for_employees_career_opportunities_content h3 {
+    color: #087282;
+    font-size: 19px;
+    margin: 0 0 10px;
+}
+
+.for_employees_education_program {
+    background: url(../img/bg-ctdt.png) no-repeat center;
+    padding: 150px 0 !important;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.for_employees_education_program_title {
+    text-align: center;
+    margin: 0 0 90px 0;
+    color: #fff;
+    font-size: 50px;
+    position: relative;
+    line-height: 40px;
+}
+
+.for_employees_education_program_title:after {
+    content: "";
+    position: absolute;
+    bottom: -30px;
+    width: 70%;
+    background: #fff;
+    height: 3px;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+
+.for_employees_education_program_item {
+    margin-bottom: 30px;
+}
+
+.for_employees_education_program_box {
+    background: #00bcd0;
+    padding: 10px;
+    color: #fff;
+    position: relative;
+    width: 100%;
+    float: left;
+}
+
+.for_employees_education_program_box:before {
+    content: "";
+    position: absolute;
+    top: -61px;
+    height: 47px;
+    width: 3px;
+    background: #fff;
+    left: 47%;
+}
+
+.for_employees_education_program_box h3 {
+    margin: 0 0 10px 0;
+}
+
+.for_employees_education_program_box ul {
+    margin: 0;
+    padding: 0;
+}
+
+.for_employees_education_program_box ul li {
+    list-style: inside;
+    margin: 0 0 5px 0;
+}
+
+.icon-ctdt {
+    width: 90px;
+    float: right;
+}
+
+.img_scale_down {
+    width: 100%;
+    height: 100%;
+    object-fit: scale-down;
+}
+
+.for_employees_education_program_box:after {
+    content: "";
+    position: absolute;
+    top: -67px;
+    height: 10px;
+    width: 10px;
+    background: #000;
+    left: 46%;
+    border-radius: 100px;
+}
+
+
+
+.footer_top, .footer_copyright {
+    float: left;
+    width: 100%;
+}
+

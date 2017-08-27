@@ -1,0 +1,43 @@
+.subTitle {
+    background: #3dc8db;
+}
+
+.box_img {
+    width: 50px;
+    height: 50px;
+    background: #fff;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.subTitle_item {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 40px 0;
+}
+
+.subTitle_text h3 {
+    padding-left: 10px;
+    font-size: 19px;
+    margin: 0;
+}
+
+.subTitle_text a {
+    font-size: 18px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 600;
+}
+
+.subTitle_text a:hover,a:visited, a:link {
+    text-decoration: none;
+}
+
+.introduce_img img {
+    width: 100%;
+}

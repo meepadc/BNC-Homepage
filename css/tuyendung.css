@@ -1,0 +1,201 @@
+
+.margin-top-20 {
+    margin-top: 20px !important;
+}
+
+.margin-bottom-20 {
+    margin-bottom: 20px !important;
+}
+
+.hotline {
+    width: 100%;
+    float: left;
+    background: url(../img/banner_recruit.png) no-repeat center right;
+    background-size: 100%;
+    height: 450px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    align-items: center;
+}
+
+.hotline_box {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.tuyendung_form {
+    margin-top: 20px;
+}
+
+.searchChild-title {
+    color: #898989;
+    font-size: 16px;
+    margin: 0 0 15px;
+    font-style: italic;
+    font-weight: 700;
+}
+
+.searchChild .form-control {
+    height: 40px;
+    box-shadow: none;
+    border-radius: 100px;
+}
+
+.searchChild-dropdown {
+    display: flex;
+    justify-content: center;
+    margin: 35px 0;
+}
+
+.re-button {
+    background-color: #2db3db;
+    border: medium none;
+    border-radius: 22px;
+    box-shadow: none;
+    color: #fff;
+    font-size: 16px;
+    margin-right: 15px;
+    padding: 9px 25px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.re-button:hover, .searchChild-dropdown a:hover {
+    background: #d00009;
+    text-decoration: none;
+    color: #fff;
+}
+
+.recruit_table {
+    margin-top: 20px;
+}
+
+.recruitment-list table th {
+    background-color: #121929;
+    color: #fff;
+    font-weight: normal;
+    padding: 10px 0;
+    border: solid 1px #ebebeb;
+    text-align: center;
+    font-weight: bold;
+}
+
+.recruitment-list table tr td:nth-child(2), .recruitment-list table tr td:nth-child(3) {
+    text-align: justify;
+    line-height: 1.8em;
+}
+
+.recruitment-list table td:nth-child(2n) {
+    padding-right: 10px;
+    font-weight: 700;
+}
+
+td {
+    font-weight: 600;
+}
+
+.recruitment-list table td {
+    text-align: center;
+    vertical-align: middle !important;
+}
+
+.title1 {
+    text-decoration: none;
+}
+
+.footer_top, .footer_copyright {
+    float: left;
+    width: 100%;
+}
+
+/*PAGE TUYEN DUNG CHI TIET*/
+
+.recruit_links {
+    width: 100%;
+    float: left;
+    padding: 30px 0;
+}
+
+.recruit_links_list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.recruit_links li a {
+    color: #2db3db;
+    font-weight: 700;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.recruit_details_infor_title {
+    padding: 30px 0;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 25px;
+}
+
+.recruit_details_infor {
+    background: #25afbb;
+    color: #fff;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 20px 0 !important;
+}
+
+.recruit_details_infor .fa {
+    font-size: 25px;
+    margin: 0 6px 0 0;
+    float: left;
+}
+
+.recruit_details_infor span {
+    display: table;
+}
+
+.recruit_details_infor_time {
+    border: 2px solid #fff;
+    border-radius: 18px;
+    padding: 11px 0;
+    text-align: center;
+    width: 165px;
+    margin: 4px 0 0;
+}
+
+.recruit_details_infor {
+    background: #25afbb;
+    color: #fff;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 20px 0 !important;
+}
+
+.recruit_details_content_info h2 {
+    color: #2db3db;
+    margin: 40px 0 15px;
+    font-size: 25px;
+    line-height: 40px;
+}
+
+.recruit_details_content_note h3, .recruit_details_content_note h4 {
+    line-height: 30px;
+    margin-bottom: 5px;
+}
+
+.recruit_details_content_note h4 {
+    margin: 0;
+}
+
+.recruit_details_content_info ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.recruit_details_content_info li {
+    margin-bottom: 10px;
+}
